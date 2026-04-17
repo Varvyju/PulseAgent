@@ -184,23 +184,9 @@ streamlit run dashboard.py
 - Works on a **basic smartphone** — no app install, no special hardware needed
 - Multilingual embeddings → **Hindi and Kannada** support ready to enable
 
----
-
-## 🏆 Why This Wins
-
-| Criteria | PulseAgent |
-|---------|-----------|
-| Innovation & originality | Action-oriented agent, not a chatbot. Tools fire real backend actions. |
-| Technical execution | Full stack: Vapi → FastAPI → Qdrant → Streamlit, end-to-end working |
-| Real-world impact | India's 1.4M nurses, rural PHCs, preventable prescription errors |
-| Scalability & usability | Multi-tenant Qdrant, stateless API, smartphone-only requirement |
-| Demo quality | Live voice → dashboard update in ~3s, CRITICAL banner, Qdrant RAG visible |
-
----
-
 ## 👤 Team
 
-**Vision_Architect**  
+**Vision Architect**  
 **Varun Namavali** — BE Electronics & Communication, BNMIT (VTU)  
 Data Science Analyst @ Definitive Healthcare  
 Prior: Renalyx Health Systems, Equidor MedTech, AWS AI for Bharat  
