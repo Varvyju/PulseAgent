@@ -192,6 +192,9 @@ Data Science Analyst @ Definitive Healthcare
 Prior: Renalyx Health Systems, Equidor MedTech, AWS AI for Bharat  
 GitHub: [@Varvyju](https://github.com/Varvyju)
 
+**Vyshak T M** 
+Operations Analyst  @ Y-Not Design and Manufacturing 
+
 ---
 
 *HackBLR 2026 · Powered by Vapi + Qdrant · Problem Statement PS-3*
